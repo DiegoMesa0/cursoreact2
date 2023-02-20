@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursoreact2/static/css/main.f6d75fd5.css",
+    "main.js": "/cursoreact2/static/js/main.d893ab2f.js",
+    "static/js/787.21e3c74b.chunk.js": "/cursoreact2/static/js/787.21e3c74b.chunk.js",
+    "index.html": "/cursoreact2/index.html",
+    "main.f6d75fd5.css.map": "/cursoreact2/static/css/main.f6d75fd5.css.map",
+    "main.d893ab2f.js.map": "/cursoreact2/static/js/main.d893ab2f.js.map",
+    "787.21e3c74b.chunk.js.map": "/cursoreact2/static/js/787.21e3c74b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d75fd5.css",
+    "static/js/main.d893ab2f.js"
+  ]
+}
